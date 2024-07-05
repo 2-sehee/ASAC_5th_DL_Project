@@ -1,7 +1,5 @@
-# ASAC_5th_DL_Project
-<h1>ASAC 5th Deep Learning Project</h1>
-==============================
-![main img](https://github.com/2-sehee/ASAC_5th_DL_Project/assets/174074112/8318ca48-bead-4390-8512-1e151529be75)
+# ASAC 5th Deep Learning Project
+=================================
 
 📌 Topic
 ---------
