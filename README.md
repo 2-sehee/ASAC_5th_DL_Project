@@ -13,8 +13,8 @@
       <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>양희선</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>이설하</b></sub></a><br /></td>
+      <tr/>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>이세희</b></sub></a><br /></td>
-     <tr/>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>임혜원</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>최이경</b></sub></a><br /></td>
     </tr>
