@@ -1,11 +1,9 @@
 # ASAC 5th Deep Learning Project
 
 📌 Topic
----------
 <h3>생성모델을 활용한 사진 스타일 전이</h3>
 
 🙋🏻 Members
------------
 <table>
   <tbody>
     <tr>
