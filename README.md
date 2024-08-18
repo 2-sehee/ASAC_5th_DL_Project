@@ -32,13 +32,13 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" style="width:200px;"><a href="https://github.com/heesunTUKorea">
+      <td align="center" style="width:400px;"><a href="https://github.com/heesunTUKorea">
           <img src="https://github.com/user-attachments/assets/2b574210-e820-47de-b93b-c6ccb47bf1d1" height="100px;" alt=""/><br /><sub><b>양희선</b></sub></a><br />
        - 모델 서칭 및 논문 리뷰<br/>
        - 데이터 전처리<br/>
        - 모델링<br/>
       </td>
-      <td align="center" style="width:200px;"><a href="https://github.com/yeomsta">
+      <td align="center" style="width:20%;"><a href="https://github.com/yeomsta">
           <img src="https://github.com/user-attachments/assets/59023b59-96a4-436a-8051-e387346f4cb7" height="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br />
        - 프로젝트 매니징<br/>
        - 앱 데모 구성<br/>
