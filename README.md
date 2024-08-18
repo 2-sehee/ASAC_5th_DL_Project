@@ -1,5 +1,4 @@
-# Sk-Planet T academy 빅데이터 분석가 5기
-# Deep Learning Generative AI Project
+# Sk-Planet T academy 빅데이터 분석가 5기 Deep Learning Generative AI Project
 
 
 <h3>📌 Topic</h3>
@@ -15,12 +14,15 @@
     <br>-> 음식 사진 데이터 셋으로 재학습 
   
 - 모델의 데이터셋 구조에 맞추어 새로운 데이터셋 구축 
-  - 총 2255개의 학습 데이터셋 구성
+  - 총 2255개의 학습 데이터셋 구성(hugging face 업로드🤗)
             
             | input_image | edit_prompt | edited_image |
             | 수집한 작가의 음식 사진 | 작가이름+사진을 묘사하는 텍스트 | 작가 스타일 사진 |
 
-    * 사진을 묘사하는 텍스트는 openAI api를 이용하여 생성 
+    * 사진을 묘사하는 텍스트는 openAI api를 이용하여 생성
+    * hugging face 업로드 데이터셋 예시 🤗
+      ![데이터셋 예시5 (허깅페이스)](https://github.com/user-attachments/assets/001fc3ff-ffcd-4d06-b571-c791f1830211)
+
 - 모델 재학습 : epoch 1000,1500,2500 등으로 진행
 
 
@@ -28,13 +30,19 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/heesunTUKorea"><img src="https://avatars.githubusercontent.com/u/101851478?v=4" width="50px;" alt=""/><br /><sub><b>양희선</b></sub></a><br />데이터 전처리, 모델링</td>
-      <td align="center"><a href="https://github.com/yeomsta"><img src="" width="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br />프로젝트 매니징, 데이터 수집</td>
-      <td align="center"><a href="https://github.com/seolhada"><img src="" width="100px;" alt=""/><br /><sub><b>이설하</b></sub></a><br />데이터 수집, 데이터 전처리</td>
+      <td align="center"><a href="https://github.com/heesunTUKorea">
+          <img src="![양희선](https://github.com/user-attachments/assets/a75f6ea6-78b8-4342-9fc9-a1247cc17eca)" width="50px;" alt=""/><br /><sub><b>양희선</b></sub></a><br />데이터 전처리, 모델링</td>
+      <td align="center"><a href="https://github.com/yeomsta">
+          <img src="![yemosta](https://github.com/user-attachments/assets/024b4c2e-cd5c-4ee3-a4ef-9a32e8f3a295)" width="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br />프로젝트 매니징, 데이터 수집</td>
+      <td align="center"><a href="https://github.com/seolhada">
+          <img src="![이설하](https://github.com/user-attachments/assets/8c328aec-ec66-4206-805e-04eb11721c12)" width="100px;" alt=""/><br /><sub><b>이설하</b></sub></a><br />데이터 수집, 데이터 전처리</td>
       <tr/>
-      <td align="center"><a href="https://github.com/2-sehee"><img src="" width="100px;" alt=""/><br /><sub><b>이세희</b></sub></a><br />프롬프트 엔지니어링, 모델링</td>
-      <td align="center"><a href="https://github.com/oh-bom"><img src="" width="100px;" alt=""/><br /><sub><b>임혜원</b></sub></a><br />데이터 셋 구축, 프롬프트 엔지니어링</td>
-      <td align="center"><a href="https://github.com/LeekyeongChoi"><img src="" width="100px;" alt=""/><br /><sub><b>최이경</b></sub></a><br />데이터 수집, 모델링</td>
+      <td align="center"><a href="https://github.com/2-sehee">
+          <img src="![이세이](https://github.com/user-attachments/assets/3f33e1a3-2b16-41b9-99fb-714467bd50d2)" width="100px;" alt=""/><br /><sub><b>이세희</b></sub></a><br />프롬프트 엔지니어링, 모델링</td>
+      <td align="center"><a href="https://github.com/oh-bom">
+          <img src="![이메언](https://github.com/user-attachments/assets/6c3d7db5-9e8c-444c-adf5-16818baa6891)" width="100px;" alt=""/><br /><sub><b>임혜원</b></sub></a><br />데이터 셋 구축, 프롬프트 엔지니어링</td>
+      <td align="center"><a href="https://github.com/LeekyeongChoi">
+          <img src="![이경](https://github.com/user-attachments/assets/40539904-6f3a-4cd2-b3ae-a6ff5182ad87)" width="100px;" alt=""/><br /><sub><b>최이경</b></sub></a><br />데이터 수집, 모델링</td>
     </tr>
   </tbody>
 </table>
