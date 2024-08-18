@@ -1,4 +1,5 @@
-# Sk-Planet T academy 빅데이터 분석가 5기 Deep Learning Generative AI Project
+# [Sk-Planet T academy 빅데이터 분석가 5기]
+ Deep Learning Generative AI Project
 
 
 <h3>📌 Topic</h3>
@@ -31,7 +32,7 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/heesunTUKorea">
-          <img src="![양희선](https://github.com/user-attachments/assets/a75f6ea6-78b8-4342-9fc9-a1247cc17eca)" width="50px;" alt=""/><br /><sub><b>양희선</b></sub></a><br />데이터 전처리, 모델링</td>
+          <img src="https://github.com/user-attachments/assets/a75f6ea6-78b8-4342-9fc9-a1247cc17eca" width="50px;" alt=""/><br /><sub><b>양희선</b></sub></a><br />데이터 전처리, 모델링</td>
       <td align="center"><a href="https://github.com/yeomsta">
           <img src="![yemosta](https://github.com/user-attachments/assets/024b4c2e-cd5c-4ee3-a4ef-9a32e8f3a295)" width="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br />프로젝트 매니징, 데이터 수집</td>
       <td align="center"><a href="https://github.com/seolhada">
