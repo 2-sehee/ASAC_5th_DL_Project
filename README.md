@@ -17,7 +17,7 @@
    <td align="center" width="400px"/>
     1. "음식 맛은 미각보다 시각이 먼저 판단한다"
    </td>
-   <td align="center width="400px" />
+   <td align="center" width="400px" />
     2. "메뉴 이미지는 가게를 결정하는 중요요소"
    </td>
   </tr>
