@@ -33,18 +33,40 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/heesunTUKorea">
-          <img src="https://github.com/user-attachments/assets/2b574210-e820-47de-b93b-c6ccb47bf1d1" height="100px;" alt=""/><br /><sub><b>양희선</b></sub></a><br />데이터 전처리, 모델링</td>
+          <img src="https://github.com/user-attachments/assets/2b574210-e820-47de-b93b-c6ccb47bf1d1" height="100px;" alt=""/><br /><sub><b>양희선</b></sub></a><br />
+       - 모델 서칭 및 논문 리뷰<br/>
+       - 데이터 전처리<br/>
+       - 모델링<br/>
+      </td>
       <td align="center"><a href="https://github.com/yeomsta">
-          <img src="https://github.com/user-attachments/assets/59023b59-96a4-436a-8051-e387346f4cb7" height="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br />프로젝트 매니징, 데이터 수집</td>
+          <img src="https://github.com/user-attachments/assets/59023b59-96a4-436a-8051-e387346f4cb7" height="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br />
+       - 프로젝트 매니징<br/>
+       - 앱 데모 구성<br/>
+       - 데이터 수집<br/>
+      </td>
       <td align="center"><a href="https://github.com/2-sehee">
-          <img src="https://github.com/user-attachments/assets/c2fb72f2-fe3f-4537-97a0-d1dfccaa4904" height="100px;" alt=""/><br /><sub><b>이세희</b></sub></a><br />프롬프트 엔지니어링, 모델링</td>
+          <img src="https://github.com/user-attachments/assets/c2fb72f2-fe3f-4537-97a0-d1dfccaa4904" height="100px;" alt=""/><br /><sub><b>이세희</b></sub></a><br />
+       - 실제 비즈니스 적용 아이디어 제시<br/>
+       - 프롬프트 엔지니어링<br/>
+       - 모델링<br/>
+      </td>
       <tr/>
       <td align="center"><a href="https://github.com/seolhada">
-          <img src="https://github.com/user-attachments/assets/8c328aec-ec66-4206-805e-04eb11721c12" height="100px;" alt=""/><br /><sub><b>이설하</b></sub></a><br />데이터 수집, 데이터 전처리</td>
+          <img src="https://github.com/user-attachments/assets/8c328aec-ec66-4206-805e-04eb11721c12" height="100px;" alt=""/><br /><sub><b>이설하</b></sub></a><br />
+       - 데이터 수집<br/>
+       - 데이터 전처리<br/>
+      </td>
       <td align="center"><a href="https://github.com/oh-bom">
-          <img src="https://github.com/user-attachments/assets/99bc3c31-9791-406b-a8b0-37b3591f82bd" height="100px;" alt=""/><br /><sub><b>임혜원</b></sub></a><br />데이터 셋 구축, 프롬프트 엔지니어링</td>
+          <img src="https://github.com/user-attachments/assets/99bc3c31-9791-406b-a8b0-37b3591f82bd" height="100px;" alt=""/><br /><sub><b>임혜원</b></sub></a><br />
+       - 모델 서칭 및 논문 리뷰<br/>
+       - 데이터 셋 구축<br/> 
+       - 프롬프트 엔지니어링<br/>
+      </td>
       <td align="center"><a href="https://github.com/LeekyeongChoi">
-          <img src="https://github.com/user-attachments/assets/0b09f7f2-bf81-4725-8816-748713cd5760" height="100px;" alt=""/><br /><sub><b>최이경</b></sub></a><br />데이터 수집, 모델링</td>
+          <img src="https://github.com/user-attachments/assets/0b09f7f2-bf81-4725-8816-748713cd5760" height="100px;" alt=""/><br /><sub><b>최이경</b></sub></a><br />
+       - 데이터 수집<br/>
+       - 모델링<br/>
+      </td>
     </tr>
   </tbody>
 </table>
