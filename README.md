@@ -38,7 +38,6 @@
           <img src="https://github.com/user-attachments/assets/59023b59-96a4-436a-8051-e387346f4cb7" height="100px;" alt=""/><br /><sub><b>염혜지</b></sub></a><br />프로젝트 매니징, 데이터 수집</td>
       <td align="center"><a href="https://github.com/2-sehee">
           <img src="https://github.com/user-attachments/assets/c2fb72f2-fe3f-4537-97a0-d1dfccaa4904" height="100px;" alt=""/><br /><sub><b>이세희</b></sub></a><br />프롬프트 엔지니어링, 모델링</td>
-     
       <tr/>
       <td align="center"><a href="https://github.com/seolhada">
           <img src="https://github.com/user-attachments/assets/8c328aec-ec66-4206-805e-04eb11721c12" height="100px;" alt=""/><br /><sub><b>이설하</b></sub></a><br />데이터 수집, 데이터 전처리</td>
